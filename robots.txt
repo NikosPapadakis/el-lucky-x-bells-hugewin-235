@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://el-lucky-x-bells-hugewin.github.io/sitemap.xml
